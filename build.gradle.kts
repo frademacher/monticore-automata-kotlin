@@ -52,6 +52,11 @@ fileTree("src/main/grammars").matching {
         }
 }
 
+tasks.withType<JavaCompile> {
+    options.release.set(11)
+}
+
+
 tasks.withType<KotlinCompile> {
     kotlinOptions.jvmTarget = "11"
     dependsOn(tasks.withType<MCTask>())
