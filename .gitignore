@@ -1,0 +1,53 @@
+.ssh/
+.metadata/
+bin/
+.launch/
+Trash/
+JavaTest/
+LibraryExample/
+ZMS-Book-Metamodel/
+zorg.xtext.example*
+target/
+releases/
+de.fhdo.ddmm.acceleo/
+de.fhdo.lemma.acceleo/
+.gradle/
+HOWTO Lemma Release.md
+*.java._trace
+*.xtendbin
+*.xtextbin
+*.ods
+de.fhdo.ddmm.ocl/
+out/
+de.fhdo.lemma*/build/
+code generators/de.fhdo.lemma*/build/
+de.fhdo.lemma.live_validation/*/build/
+.idea/
+set_java_home.sh
+code generators/de.fhdo.lemma.model_processing.code_generation.java_base/linecnt_helper.py
+.~lock*
+*.iml
+*.hprof
+examples/**/intermediate/
+howto-lemma-release.md/
+lemma-cd-documentation/
+code generators/de.fhdo.lemma.model_processing.code_generation.springcloud.kafka_backup/
+de.fhdo.lemma.eclipse.updatesite/force-deploy.sh
+build/deploy/debug_deploy.sh
+.DS_Store
+__pycache__/
+build/deploy/debug_env.sh
+examples/**/intermediate/
+!examples/model-processing/example models/intermediate/
+!examples/model-processing-latest/example models/intermediate/
+examples/**/build/
+examples/model-processing/run11.sh
+examples/model-processing/generated code/
+examples/model-processing-latest/run11.sh
+examples/model-processing-latest/generated code/
+de.fhdo.lemma.service.openapi.tests/lib/*
+de.fhdo.lemma.service.openapi.tests/test-model-gen/*
+.vscode
+*.code-workspace
+build
+src/main/java

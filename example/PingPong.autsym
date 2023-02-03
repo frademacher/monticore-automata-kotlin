@@ -1,0 +1,1 @@
+{"generated-using":"www.MontiCore.de technology","name":"PingPong","symbols":[{"kind":"automata._symboltable.AutomatonSymbol","name":"PingPong","states":["NoGame","Ping","Pong"]}]}
